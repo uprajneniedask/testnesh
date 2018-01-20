@@ -1,0 +1,4 @@
+git config -l
+git config credential.username 'your username'
+git config user.email "your email"
+
